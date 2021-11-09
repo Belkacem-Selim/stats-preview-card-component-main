@@ -1,6 +1,3 @@
-![Aperçu du design pour le défi de codage du composant de carte d'aperçu à 3 colonnes](./design/desktop-preview.jpg)
-
-### Le défi
 
 Les utilisateurs doivent être en mesure de :
 
